@@ -19,6 +19,7 @@
   "dependencies": {
     "ansi": "^0.3.1",
     "colors": "^1.1.2",
-    "log4js": "^0.6.31"
+    "log4js": "^0.6.31",
+    "minimist": "^1.2.0"
   }
 }
